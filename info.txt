@@ -1,0 +1,5 @@
+pip install dronekit #(2.9.2)
+pip install dronekit-sitl(3.2.0)
+
+#Connect to a specific drone
+python script.py --connect ip:14550
